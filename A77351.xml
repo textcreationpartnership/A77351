@@ -1,0 +1,366 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The brevvers plea. Or, A vindication of strong-beere and ale. Wherein is declared, the wonderfull bounty and patience of God. The wicked and monstruous unthankfulnesse of man. The unregarded injuries done to those creatures, groaning, as it were, to be delivered from the abuses proceeding, from disdainfull aspertions of ignorant from the intemperance of sinfull [brace] man.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77351</idno>
+            <idno type="STC">Wing B4432</idno>
+            <idno type="STC">Thomason E405_2</idno>
+            <idno type="STC">ESTC R201873</idno>
+            <idno type="EEBO-CITATION">99862362</idno>
+            <idno type="PROQUEST">99862362</idno>
+            <idno type="VID">160468</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77351)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160468)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E405[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The brevvers plea. Or, A vindication of strong-beere and ale. Wherein is declared, the wonderfull bounty and patience of God. The wicked and monstruous unthankfulnesse of man. The unregarded injuries done to those creatures, groaning, as it were, to be delivered from the abuses proceeding, from disdainfull aspertions of ignorant from the intemperance of sinfull [brace] man.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for I.C.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In the title, "from disdainfull aspertions of ignorant" and "from the intemperance of sinfull" are followed by a bracket and the word "man".</note>
+                  <note>Annotation on Thomason copy: "Aug: 30".</note>
+                  <note>Print show-through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Beer --  England --  Early works to 1800.</term>
+               <term>Ale --  England --  Early works to 1800.</term>
+               <term>Brewers --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160468:1" rendition="simple:additions"/>
+            <p>THE BREVVERS PLEA.</p>
+            <p>Or, a VINDICATION of <hi>Strong-Beere</hi> and <hi>Ale.</hi>
+            </p>
+            <p>Wherein is declared,
+<list>
+                  <item>The wonderfull bounty and patience of God.</item>
+                  <item>The wicked and monſtruous unthankfulneſſe of man.</item>
+                  <item>The unregarded injuries done to thoſe creatures, groaning, as it were, to be delivered from the abuſes proceeding,</item>
+                  <item>From diſdainfull aſpertions of ignorant Man.</item>
+                  <item>From the intemperance of ſinfull Man.</item>
+               </list>
+            </p>
+            <q>
+               <bibl>
+                  <hi>1 COR. 12.</hi>
+               </bibl>
+               <p>
+                  <bibl>
+                     <hi>19.</hi>
+                  </bibl> Jf they were all one member where would the body be.</p>
+               <p>
+                  <bibl>
+                     <hi>20.</hi>
+                  </bibl> But now are they many Members, yet but one Body.</p>
+               <p>
+                  <bibl>
+                     <hi>21,</hi>
+                  </bibl> The eye cannot ſay unto the hand, I have no need of thee, nor againe the head to the feet, I have no need of you.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Iuven. Sat.</hi>
+               </bibl>
+               <p>Dat veniam corvis, vexat cenſura columbas.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>I. C.</hi> 1647.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:160468:2"/>
+            <head>Lectori candido et benevolo. <hi>S. P. D.</hi>
+            </head>
+            <p>COurteous and Judicious reader, to thy view cheifly to Jexpoſe theſe my enſuing lines, being urged thereunto by the loud cry of two hor<g ref="char:EOLhyphen"/>rible wrath provoking ſins, now reigning amongſt us. <hi>viz.</hi> Vnthankefullnes towards God, and un<g ref="char:EOLhyphen"/>charitablenes towards man, theſe two like unſe<g ref="char:EOLhyphen"/>perable companions alwaies go together, both diſ<g ref="char:EOLhyphen"/>honouring the Creator; ſome unthankfully vilify<g ref="char:EOLhyphen"/>ing, and others intemperatly abuſing the creature, to reform which lies only in the Magiſtrate, yet blame and aſperſions are caſt upon thoſe, who ſuf<g ref="char:EOLhyphen"/>fer moſt (by ſuch lewd and prodigall offenders) J mean the diſtreſſed company of <hi>Brewers,</hi> whoſe ſad condition groanes for ſpeedy releif, a Compa<g ref="char:EOLhyphen"/>ny very needfull <hi>&amp;</hi> alſo profitable to this City <hi>&amp;</hi> Suburbs, yet looked upon with an unkind aſpect, but occaſioned by thoſe who may be well affected, but being miſtaken in their judgment can give no true and ſollid reaſon for it. But according to that of the Poet,</p>
+            <q>
+               <l>Non amo te Voluſi, nec poſſum dicere, quare,</l>
+               <l>Hoc tantum poſſum dicere, non amo te.</l>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:160468:2"/>
+            <head>The Brewers Plea, or a <g ref="char:V">Ʋ</g>indication of ſtrong-beere and Ale.</head>
+            <p>What a vineyard in <hi>England?</hi> hath God been pleaſed to warm this weſterne clymate with a Temporall Bleſſing of ſo excellent a na<g ref="char:EOLhyphen"/>ture for the Suſtaining, yea for the reviving of the poore wearyed Labo<g ref="char:EOLhyphen"/>ring men, and not only foe, but alſo for the cheering up of the droop<g ref="char:EOLhyphen"/>ing Spirits and the glading of the hearts, of the Sorrowfull and afflicted? This is no ſmall favour which hath ſo long been beſtowed upon us in this occidentall part of the world; but it is a wonder, that for ſo great a bleſ<g ref="char:EOLhyphen"/>ſing, we ſhould return ſo little thanks unto the Almighty? yea, many amongſt us take not ſo much notice of it as to accompt it for a bleſſing, and other<g ref="char:EOLhyphen"/>ſome more ungratefull (little knowing what the want thereof would pro<g ref="char:EOLhyphen"/>duce) ſeeme to loath it in their thoughts, by their diſdainfull expreſſions, and aſperſions caſt upon thoſe creatures, without which this Kingdome eſpecially neere <hi>London</hi> were in a ſad condition, as I ſhall ſhew more plain<g ref="char:EOLhyphen"/>ly hereafter. And here is manifeſtly ſeene not only the great bounty of God, but alſo his exceeding wonderfull patience, that notwithſtanding ſuch murmurings he hath yet continued this bleſſing amongſt us, though ſome<g ref="char:EOLhyphen"/>times threatned a dearth thereof. Thus God dealt with his Iſrael in the wildernes, although ſome murmured at <hi>Manna,</hi> yet he withdrew not that favour from them. But our diſdainers will ſay, it is their zeale againſt drun<g ref="char:EOLhyphen"/>kenneſſe, I may as well ſay, O ſinfull zeale! ſtaggering and wavering no leſſe through ignorance, then the drunkard through his intemperance. Be<g ref="char:EOLhyphen"/>cauſe ſome do abuſe the good creature of God by that deteſtable ſinne of drunkennes, ſhall others therefore (ſuch as would be thought to be religious) expoſe it to diſdaine? Nay cry it down as a thing to be extinguiſhed? Let ſuch ingeniouſly confeſſe which they hold to be the greater ſinne, to abuſe or to extinguiſh, any of Gods creatures, the abuſe (by puniſhment duely inflicted) may be reformed; but to extinguiſh or diminiſh the vir<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ue of any of the crea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ures, is to deprive not o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ely the offenders, but alſo the inno<g ref="char:EOLhyphen"/>cent of the full fruition of thoſe creatures which God hath appointed for the comfort of mankinde.</p>
+            <p>After <hi>Noah</hi> had offended, and ſuffered reproach by his curſed ſon, did he to manifeſt his deteſtation againſt that ſinne, give order to deſtroy that vine<g ref="char:EOLhyphen"/>yard which he had ſo painfully planted, had not this errour been greater then the former? For he that will ſerve God aright, muſt neither turne to the right hand nor to the left; but muſt walke before him in a ſtraight path
+<pb n="2" facs="tcp:160468:3"/>with an upright heart, to diminiſh or detract from the excellency of the creature, is to diſhonour the Creature. And it is a puniſhment from God upon a people when a people degenerateth from its naturall ver<g ref="char:EOLhyphen"/>tue, or is deprived of its proper excellency, as appeareth by the expreſſion of the Prophet, bewailing the ſad condition of Iſrael, (ſaith he) <hi>Your ſil<g ref="char:EOLhyphen"/>ver is become droſſe, your wine is mixt with water. Iſa.</hi> 1.22. And our Sa<g ref="char:EOLhyphen"/>viour who came to repaire our ruins and to purchaſe for us a better Paradice then that which <hi>Adam</hi> loſt, made it his firſt miracle to make water wine, and that of the beſt, (<hi>Iohn</hi> 29.) whilſt ſome of us would turne our native wine into water, I meane our Strong-beere into Beere of the leaſt nouriſh<g ref="char:EOLhyphen"/>ment &amp; meaneſt condition. For brevities ſake let theſe two witneſſes ſuffice, although the holy Scriptures are full of expreſſions tending to the commen<g ref="char:EOLhyphen"/>dations of thoſe creatures moſt (I ſpeake concerning temporall blesſings) which are moſt cheriſhing to the vitall ſpirits, and moſt preſervative to the health and well being of weake mankind. The ſame holy ſpirit that pro<g ref="char:EOLhyphen"/>nounceth woes againſt gluttons and drunkards commendeth <hi>Canaan,</hi> be<g ref="char:EOLhyphen"/>cauſe it flowed with milke and honey, and corne and wine and oyle, <hi>Deut.</hi> 11.9 14. <hi>ver.</hi> And although <hi>England</hi> hath not naturally the wine of the vine yet it injoyeth the plentiful fruition thereof; yea in ſuch an abundant manner that many Engliſh prodigals, though vaſt eſtates have been left to divers of them, yet have complained more of the want of money, then of the want of wine. But grant that theſe forrain plantations ſhould faile us, or that we ſhould be diſappointed, yea almoſt deſtitute of wine by ſome unexpected meanes proceeding from providence, either divine or humane, or that thoſe ſhips that ventured, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thoſe commodities tranſported for wine, ſhould be otherwiſe imployed, or improved to the enriching of the Kingdome, that wine ther<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>by ſhould be ſcarce amongſt us, yet hath <hi>England</hi> whereat to re<g ref="char:EOLhyphen"/>joyce within it ſelfe. For of hopps and Mault our native commodites (and therefore the more agreeable to the conſtitutions of our native inhabitants) may be made ſuch Strong-beere being well boyled and hopped, and kept its full time, as that it may ſerve inſtead of ſack if authority ſhall thinke fit, whereby they alſo may know experimentally the vertue of thoſe creatures at their full height, which Beere being well brewed of a low pure amber co<g ref="char:EOLhyphen"/>lour cleare and ſparkling, Noble men and the Gentry may be pleaſed to have [<hi>Engliſh</hi> Sack] in their wine-ſellers, and Tavernes alſo to ſell to thoſe who are not willing, or cannot conveniently lay it into their own houſes, which may be a means greatly to increaſe and improve the tillage of <hi>England,</hi> and alſo the profitable plantations of hop-grounds, thereby inabling the induſt<g ref="char:EOLhyphen"/>rious Farmers to pay their rents, and alſo to improve the revenews of the Nobility and Gentry, and ſo much the more, may they be pleaſed to add ſome of thoſe places (w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch as yet are receptacles for wild beaſts [<hi>Parks</hi> &amp; <hi>Forreſts</hi>]
+<pb n="3" facs="tcp:160468:3"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n which may be erected faire and profitable farmes, and ſo become com<g ref="char:EOLhyphen"/>fortable habitations, for laborious and painfull husban<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dmen with no ſmall profit to the owners thereof, and alſo to the generall good of the whole nation, ſhould part of thoſe commodities tranſported for wine be more advantagiouſly diſpoſed of, and our own vineyard at home be better huſbanded and manured. And at leſſer rates ſuch good ſtrong beere as ſhall be moſt cheriſhing to poore labouring people without which they cannot well ſubſiſt, their food being for the moſt part of ſuch things as afford lit<g ref="char:EOLhyphen"/>tle or bad nouriſhment nay ſometimes dangerous, and would infect them with many ſickneſſes and diſeaſes were they not preſerved (as with an An<g ref="char:EOLhyphen"/>tidote) with good beere, whoſe vertues and effectuall operations by helpe of the hop well boyled in it, are more powerfull to expell poiſonous infe<g ref="char:EOLhyphen"/>ctions then is yet publikely known, or taken notice of.</p>
+            <p>And ſhould the Almighty, (being provoked by our ſins) afflict theſe parts with the infection of the plague, in what a deplorable condition, would the poor of this City and Suburbs be, if they ſhould be deprived of comforta<g ref="char:EOLhyphen"/>ble fruition of good ſtrong beere and ale, for the providing whereof the li<g ref="char:EOLhyphen"/>cenſed well governed victualler is to be encouraged by ſuppreſſing of un<g ref="char:EOLhyphen"/>licenſed Ale houſes, which are the onely receptacles of drunkards, and by ſevere puniſhing thoſe lewd livers who frequent thoſe diſordered houſes, which onely dare harbour them becauſe having no licences they are in no danger of the loſſe thereof, and being accuſtomed to their evil courſes both they that keepe ſuch houſes and they that frequent them, regardleſſe of their reputation by reaſon of continuall impunitie, grown impudent and fearleſſe either of God or the Magiſtrate, which cauſes ſcandalous aſperſions to be caſt on thoſe which offend not: But the licenſed victuallers keeping good houſes <hi>&amp;</hi> good orders, paying taxes according to their degrees are no leſſe neceſſary for the poor, neighbouring inhabitants (and alſo for ſtrangers as accaſion may require) then any other retailing trade, for as the Brewer is the poore mans treaſurer, ſo the victualler is the yeoman of the poor mans wine-ſeller, providing and preparing for preſent uſe, ſuch ſound well ripened beere, as the poore cannot provide for themſelves, neither without it can they go on in their labour, unleſſe beefe, porke, and bacon, and ſuch hearty meate could be afforded them at a cheaper rate, but although ſuch meates ſhould prove more ſcarce and deare, yet may it pleaſe God in mer<g ref="char:EOLhyphen"/>cy to ſend plenty of Corn for bread and beere, we ſhall not heare the cry of the poor complaining of want, ſo long as for a ſma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l matter they can ſend for ſo much good bread and beere as will ſuffice their whole families, which is not onely a ſuſtenance againſt hunger but a preſervative againſt ſickneſſe. But grains if they be taken hot; and put into a veſſell fit for that purpoſe they are an excellent bathe for itching limbs, alſo they are good
+<pb n="4" facs="tcp:160468:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:160468:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:160468:5"/>food for the cattell of this Cittie and ſuburbs, without which hey and other proviſion would be at a farre dearer rate then uſually it is. Thus we ſee that among the many temporall bleſſings which the Lord hath beſtow<g ref="char:EOLhyphen"/>ed upon us this is none of the meaneſt, The Lord in mercie graunt us thankfull hearts. But, <hi>Neſcio quis teneros oculis mihi faſcinat agnos,</hi> Beholds a foule monſter called ingratitude, with two prodigious heads and ſcorch<g ref="char:EOLhyphen"/>ing eyes have caſt ſuch looks upon this our vineyard, as if like <hi>Balak</hi> and <hi>Balaam</hi> they were conſpiring together to bring a curſe thereon though of differing diſpoſitions, yet both dangerouſly provoking the Almighty to diſ<g ref="char:EOLhyphen"/>pleaſure. The one of theſe heads is of that ſort of people, who out of a fer<g ref="char:EOLhyphen"/>vent zeal to the glory of God the Creator forget to honour him in a right taking notice of him in his mercy and bounty towards us in his crea<g ref="char:EOLhyphen"/>tures but with an auſtere countenance and ſupercilious eye, and ſpeeches agreeable thereunto, ſlight and deſpiſe the creature and thoſe that deale therein, becauſe abuſed by untemperate perſons: thus the creature is made the patient of evil, groaning as it were to be delivered therefrom, and yet is burdened with hard cenſure, a double injury; zeale without diſcretion is like heat without moiſture every way deſtructive, let ſuch conſider, if at any time afflictions befall them, would they be contented therefore to be evil thought of becauſe they fare ſo ill, nay would not the calamitie be the more heavy unto them, when they ſhall ſee that it layes them open to un<g ref="char:EOLhyphen"/>charitable cenſure, this is all one as if we ſhould afflict the innocent becauſe they are abuſed, and let the guilty eſcape and proſper according to that ſay<g ref="char:EOLhyphen"/>ing, <hi>Faelix ac proſperum ſcelus virtus vocatur, Optimi corruptio p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſimo,</hi> is a deſtiny equally fatall to every good creature, and the better the creature is it being corrupted or abuſed is ſo much the more dangerous und hurtfull, the ſweeteſt ointment being putrified becomes moſt noiſome, And man himſelf (by creation the moſt honoured of all the creatures) being degene<g ref="char:EOLhyphen"/>rated into a condition tending to crueltie and violence, is more unſatiable and unavoyd<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bly dangerous then any beaſt. Nay religion it ſelf, which is <hi>illa aurea catina</hi> that golden chaine, whereby God and man (with reve<g ref="char:EOLhyphen"/>rence be it ſpoken) are ſo neerly linked together <hi>John</hi> 17.11, 21. verſes, I ſay religion which is that <hi>ſcala miliarium</hi> by which we are directed the right way to aſcend the heavenly throne of glory is not free <hi>(quis talia fando tem<g ref="char:EOLhyphen"/>peret a lachrymis.)</hi> From the foul abuſes of audaciouſly wicked mankinde, the Profane Perſon maketh a mock of it, the hypocrite maketh it his cloake for every occaſion but it will prove a mourning one at the laſt full of la<g ref="char:EOLhyphen"/>mentations and woes, but this is not a ſubject now to treate of; wherfore I ceaſe, but I ſhall not ceaſe to mourne although in ſilence <hi>cura leves loquun<g ref="char:EOLhyphen"/>tur, ingentes ſtupent; Igne quid vtilius?</hi> what more needful then fire? ye-many fair buildings have beene deſtroyed thereby, ſhall it therefore be for<g ref="char:EOLhyphen"/>bidden?
+<pb n="5" facs="tcp:160468:5"/>Then let not thoſe whoſe better fare maketh them ſo inſenſible of poor mens wants, deny them that good beer, which is ſo needful to their meaner food becauſe that ſome abuſe it. But alas who complaineth of that foul ſin of gluttony? which as a Grave unſatiable hath ſwallowed up many of thoſe good creatures which are appointed for our nouriſhment and comfort, but by the exceſſive abuſe thereof, many of exce<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> parts, have been much diſabled both in body and minde from the free and happy uſe of thoſe good guifts, which God beſtowed upon them to be improved and alſo imployed to his glory and that in their latter dayes moſt, which is that age of man which ſhould be moſt adorned with wiſdome by reaſon of long experience; yet let not any cry out againſt or lay any blame upon <hi>Eaſt cheap,</hi> plentifull <hi>Cheapſide</hi> or <hi>Leaden-Hall,</hi> or either <hi>Fiſh-ſtreet,</hi> or any other of thoſe faire and plentious markets in and about this City, wherein Gods bounty is manifeſted and ex<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ended towards us in ſo large a manner; but rather in a deteſtation of our own unworthineſſe and unthankfullneſſe, let us all cry out and ſay, <hi>Nos, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> inquam deſumus Iapeti genus qui praeſumus; Primetheus</hi> the ſonne of <hi>Iaph<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t</hi> (for the Heathen looke no higher but ſome<g ref="char:EOLhyphen"/>what darkly concerning <hi>Noah,</hi> who was their two faced <hi>Ianus</hi>) [who ſaw the end of the old world and the beginning of the new.] having (as Poets fained) ſtolne fire from Heaven, and brought it amongſt the ſonnes of men, it occaſioned many new and dangerous deſeaſes, even ſuch is that zeale which is not guided by true knowledge, and limitted within the bounds of charitie, it fills the mind with many ſtrange and dangerous errors, corrupt<g ref="char:EOLhyphen"/>ing the judgement, which are the deſeaſes of the ſoule, but doubtleſſe thoſe that are truly religious will qualifie and coole (I doe not meane extinguiſh) the hot fervencie of their zeale, with the ſweet dew of diſcreet and pious charitie, knowing that God is a ſevere Iudge againſt thoſe who paſſing by themſelves, preſume to cenſure others, which is one of thoſe crying ſins which the land now mournes. The other head of that wrath provoking monſter, (Ingratitude) <hi>[Si ingratum dixeris omnia dixeris]</hi> is that wret<g ref="char:EOLhyphen"/>ched ſort of people, who falling (an infirmitie proper to the Drunkard) in<g ref="char:EOLhyphen"/>to the Error of the left hand, are ſo beſotted with the love of the creature, as altogether neglecting their du<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y towards the Creator, who is bleſſed for ever Amen. This bruitiſh ſin, drunkenneſſe may be called a ſin of ſinnes, the fruitfull mother of a numerous brood, hatefull even among the Hea<g ref="char:EOLhyphen"/>then, the Turkes amongſt whom our Engliſh Beere is of more eſteem then any other ſort of drinke, are ſevere puniſhers of drunkenneſſe, in <hi>Cairo</hi> a fair Citie in <hi>Turkie,</hi> it is puniſhed with death, among the <hi>Iudians</hi> in ſome part it is ſo ſeverely puniſhed with death, that they ſpared not the Magiſtrate; but gave rewards to them that ſlew him in the time of his being drunke, ſuch was their cruell zeale, or heatheniſh ſeveritie, permitting no time for
+<pb facs="tcp:160468:6"/>repentance as being ignorant what belonged thereunto, nor to ſet their houſes in ord<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> for the good of their poſterity, but the indulgent leuitie of our Magiſtracie to the e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>dangering of many <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oules, hath ſo provoked the Almighty to take the matter into <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> own hands, that ſometimes he hath alſo for a warning to others puniſhed this ſinne <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> death, witneſſe moſe untimely ends, ſome having dyed immediately in the ſinne, yea <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the very houſe where they have ſo offended, others have broke their necks off their hor<g ref="char:EOLhyphen"/>ſes, and others going a Ship-board have fallen betweene the Ship and the Boate, and ſo have been drowned, a manifeſt token of Gods diſpleaſure againſt that ſin, neither hath he ſpared the Glutton, though a ſin leſſe ſcandalous, becauſe not ſo eaſily diſcerned, yet no leſſe deteſtable in the ſight of the al-ſeeing Almighty, witneſſe that rodd of ma<g ref="char:EOLhyphen"/>ny twigs, I meane the many diſeaſes, and divers weakneſſes, paines, and infirmities in<g ref="char:EOLhyphen"/>flicted upon their bodies, and alſo the unfitneſs of their intellectual parts to any thing than is good. But now in this time of reformation better things are not onely h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ped for, but alſo expected that the Magiſtrate may be pleaſed, for the Glory of God, whoſe ſub<g ref="char:EOLhyphen"/>ſtitute he is, and for the good of the Comm<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Wealth whoſe welfare is committed to his care, to do his endeavour according to the power and truſt committed unto him, to puniſh according to lawes of this Kingdome: thoſe that wilfully offend and continue in thoſe groſſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, the foulneſs whereof are expreſsed. <hi>Deut.</hi> 21.20, 21. verſes <hi>Prov,</hi> 23.21. <hi>Rom.</hi> 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>. <hi>Epheſ.</hi> 5.18. <hi>Thoſe which are drunken are drunken in the night ſait<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Apoſtle.</hi> 1 <hi>Theſ</hi> 5, 7. if ſuch modeſty were amongſt thoſe, who as yet were not converted to the faith, or perhaps as yet had no knowledge of the truth; how great<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhame is it <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> as this where the ſound of the Goſpel hath been ſo long heard, to harbour ſuch offenders, yea to let <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem paſs unpuniſhed. The Conſidera<g ref="char:EOLhyphen"/>tion of which doubtleſs will m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve the hearts of the pi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>us Magiſtracy of theſe times to have a more vigilant eye over thoſe irrigular unlicenced private houſes (which hither<g ref="char:EOLhyphen"/>to have been the more ſecure, becau<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſo little ſuſpected) that not onely the drunkards; but alſo the places of drun<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enneſs may be puniſhed, whereby the good creatures may be delivered <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſervile <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſes, or rather freed from thoſe baſe abuſes which they are expoſed <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> by unworthy intemperate perſons. And alſo whereby thoſe who deale in Thoſe creatures may the more cheerfully go on in their lawfull callin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, and the more aſſuredly expect a bleſſing from th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Almi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hty upon their carefull indeavours, that ſo the company of <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wers</hi> may be loo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed upon as ſupporters, and releevers of a great p<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> of the poore of this C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ti<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Subburbs, and be had in ſuch reſpect, and enjoy ſuch priviledges as a <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Company and Members of this Cit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of <hi>London,</hi> according to that admonition of the Apoſtle, 1 <hi>Cor.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>2 verſe 14. The <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ody is not one member but many, &amp;c, and verſe 18. God hath ſet the Members every one of them in the b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dy as it hath ple<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſed him, &amp;c. which holy advice, let ever<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> one of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m in the body as it hath pleaſed him, &amp;c. which holy advice, let every one ſo obſerve and follow, that evill ſpeaking may be put away, that envyings and emulations may ceaſe, that we may all according to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur-degree, like States in their order fight againſt Satan (that common enemy to all mankind) who would deprive u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of our ſpiri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ual Canaan, as the Starres in their <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rd<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r fought againſt <hi>Siſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a</hi> who would have depr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ved <hi>Iſrael</hi> of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir temporall <hi>Canaan,</hi> that the Lord may be p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eaſed t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhine upon theſe 3. Kingdomes with the bleſſings of truth and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, that <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e affrighting voice of the oppreſsour may ceaſe; and the crie of the oppreſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed may be no more heard, that <hi>all</hi> men may receive their due re<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pect not according to the greatneſs of their eſtates, but acco<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ding <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o manner of their getting thoſe eſtates, that th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> enſuing yeare may be as it were a Iubily; wherein every true Iſralite may <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to his own proper <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nheritance, that the winter ſtormes of warres &amp; rumours <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> may ſpr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng forth like a vine with her cluſters of plenty, &amp; the peaceable voice of the Turtle may be heard in our land; in the meane while let every true hearted <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>iſtian ſend forth ſuch ſighes &amp; prayers to the A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mighty that he may be p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eaſed to frame ſuch hearts in <hi>all</hi> the 3. Nations; that with ſpeed he may bring people from <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tivity, that <hi>Iac<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b</hi> may rejoyce and <hi>Iſraell</hi> may be glad: which the Lord grant for his mercies ſa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e who is that individuall <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rinity and that incomprehenſible Vnity; to whom <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> for ever Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
